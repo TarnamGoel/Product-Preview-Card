@@ -1,0 +1,24 @@
+.main{
+    flex-direction: column;
+    width: 341px;
+    margin-top: 20px;
+    border-radius: 1.8%;
+}
+
+.text{
+    padding-left: 3px;
+}
+
+.price{
+    margin-left: 9px;
+}
+
+img{
+    height: 390px;
+    border-radius: 1.8%;
+}
+
+.foot{
+    align-self: center;
+    padding-top: 5px;
+}
